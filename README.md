@@ -13,9 +13,7 @@ Auto tap-tap for firecoin
 - [Registration](#registration)
 - [How to Use](#how-to-use)
   - [Windows](#windows)
-  - [Linux](#linux)
-  - [Termux](#termux)
-- [How to Get Data](#how-to-get-data)
+ - [How to Get Data](#how-to-get-data)
 - [Thank you \< 3](#thank-you--3)
 
 # Feature
